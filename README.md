@@ -16,7 +16,7 @@
 
     <div class="NutriliteKids">
         <div class="imgg">
-            <img src="image/yer.jpg" alt="">
+            <img src="yer.jpg" alt="">
         </div>
     
         <div class="ttt">
@@ -40,14 +40,14 @@
         </div>
     
         <div class="iimmg">
-            <img src="image/Photo.jpg" alt="">
+            <img src="Photo.jpg" alt="">
         </div>
     
     </div>
 
 
     <div class="project">
-        <img src="image/Screen.jpg" alt="" width="1800px" height="1000px">
+        <img src="Screen.jpg" alt="" width="1800px" height="1000px">
     </div>
 
     <div class="tech">
