@@ -16,12 +16,12 @@
 
     <div class="NutriliteKids">
         <div class="imgg">
-            <img src="yer.jpg" alt="">
+            <img src="image/yer.jpg" alt="">
         </div>
     
         <div class="ttt">
             
-            <h2 style="padding-top: 10px;"><b>SAVE 10% WITH OUR FREE FLEET PROGRAM</b></h2>     
+            <h2 style="padding-top: 10px;"><b>My name is Yerasyl. I am student</b></h2>     
             
         </div>
     </div>
@@ -31,23 +31,22 @@
           
         <div class="inv">
             <div class="ins">
-            <h1 style="padding-top: 10px;"><b>INVESTING IN</b></h1>
-            <h1><b>PRODUCT</b></h1>
-            <h1><b>INNOVATION</b></h1>
+            <h1 style="padding-top: 10px;"><b>My name is Darkhan. I am student</b></h1>
+            
         </div>
             
             
         </div>
     
         <div class="iimmg">
-            <img src="Photo.jpg" alt="">
+            <img src="image/Photo.jpg" alt="">
         </div>
     
     </div>
 
 
     <div class="project">
-        <img src="Screen.jpg" alt="" width="1800px" height="1000px">
+        <img src="image/Screen.jpg" alt="" width="1800px" height="1000px">
     </div>
 
     <div class="tech">
@@ -59,8 +58,9 @@
         <h1>The QR code to out website</h1>
         <a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fyermap.github.io%2FYerDar-Auto-Sales%2F&10&0" width="410" height="410" border="0" title="QR код"></a>
     </div>
-  
-  <style>*{
+    
+    <style>
+        *{
     font-family: 'Poppins', sans-serif;
     margin:0; padding:0;
     box-sizing: border-box;
@@ -157,6 +157,7 @@ html{
 .qr{
     text-align: center;
     font-size: 20px;
-}</style>
+}
+    </style>
 </body>
 </html>
